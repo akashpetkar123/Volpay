@@ -17,4 +17,4 @@ Volpay recieves the payment in one format and then manipulate into a format whic
 Various interfaces call happens for inward and outward. Also some checks for payments happens such as STP and Non-STP.
 Interfaces calls are AccountLookup, CustomerEnquiry, CPD(Credit Party Derivation), DPD(Debit Party Derivation), FeeandCharge, FXCheck, AccountPostings etc.
 
-As I was working on the project CBD, so some functionalities I have developed for this.A
+As I was working on the project CBD, so some functionalities I have developed for this.
