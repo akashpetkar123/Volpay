@@ -18,3 +18,4 @@ Various interfaces call happens for inward and outward. Also some checks for pay
 Interfaces calls are AccountLookup, CustomerEnquiry, CPD(Credit Party Derivation), DPD(Debit Party Derivation), FeeandCharge, FXCheck, AccountPostings etc.
 
 As I was working on the project CBD, so some functionalities I have developed for this.
+Attached is the screenshot for understanding the architecture which i have worked for CBD which is live now.
